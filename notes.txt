@@ -1,0 +1,19 @@
+1. Build the project
+    - Creating folder structure
+    - Adding files
+    - Connecting files
+
+2. NavBar
+    - 2 links and a name
+
+3. Portfolio item grid 
+    - images
+    - titles
+    - descriptions
+    - javascript (for animations)
+    
+4.  About page
+    - image
+    - split column layout
+    - content
+
